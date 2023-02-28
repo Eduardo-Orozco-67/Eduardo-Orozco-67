@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-orozco-67&label=Profile%20views&color=0e75b6&style=flat-square" alt="eduardo-orozco-67" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/eduardo18730087" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/eduardo18730087?logo=twitter&style=for-the-badge" alt="https://twitter.com/eduardo18730087" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, courses and new stuffs**
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/eduardo18730087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/eduardo18730087" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/josé-eduardo-orozco-cárdenas-762565213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/josé-eduardo-orozco-cárdenas-762565213" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/joseeduardo.orozcocardenas.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/joseeduardo.orozcocardenas.96/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/eduardo_orozco_33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eduardo_orozco_33/" height="30" width="40" /></a>
@@ -27,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-orozco-67&show_icons=true&theme=dracula&locale=en" alt="eduardo-orozco-67" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-orozco-67&theme=dark" alt="eduardo-orozco-67" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-orozco-67&theme=highcontrast" alt="eduardo-orozco-67" /></p>
