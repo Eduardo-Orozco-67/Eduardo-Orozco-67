@@ -44,8 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Orozco-67&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-orozco-67&theme=highcontrast" alt="eduardo-orozco-67" /></p>
-
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-orozco-67&theme=highcontrast" alt="eduardo-orozco-67" /></p>
+</div>
 ###
 
 <img src="https://raw.githubusercontent.com/Eduardo-Orozco-67/Eduardo-Orozco-67/output/snake.svg" alt="Snake animation" />
