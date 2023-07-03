@@ -50,6 +50,4 @@
 
 <div align="center">
   <img src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
 </div>
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
