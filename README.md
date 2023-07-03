@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eduardo-Orozco-67/Eduardo-Orozco-67/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
