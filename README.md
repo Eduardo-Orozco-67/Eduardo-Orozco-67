@@ -50,5 +50,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Eduardo-Orozco-67/Eduardo-Orozco-67/output/snake.svg" alt="Snake animation" />
-  ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
