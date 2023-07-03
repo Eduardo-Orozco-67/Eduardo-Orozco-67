@@ -47,6 +47,7 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-orozco-67&theme=highcontrast" alt="eduardo-orozco-67" /></p>
 </div>
-###
 
-<img src="https://raw.githubusercontent.com/Eduardo-Orozco-67/Eduardo-Orozco-67/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Eduardo-Orozco-67/Eduardo-Orozco-67/output/snake.svg" alt="Snake animation" />
+</div>
