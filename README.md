@@ -29,7 +29,7 @@
   <a href="https://www.facebook.com/joseeduardo.orozcocardenas.96/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="discordapp.com/users/813638023522156564" target="_blank">
+  <a href="https://discord.com/users/813638023522156564" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
