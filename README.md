@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-orozco-67&label=Profile%20views&color=0e75b6&style=flat-square" alt="eduardo-orozco-67" /> </p>
 
-<p align="left"> <a href="https://twitter.com/eduardo18730087" target="blank"><img src="https://img.shields.io/twitter/follow/eduardo18730087?logo=twitter&style=for-the-badge" alt="eduardo18730087" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks, courses and new stuffs**
 
 - 💬 Ask me about **JAVA, C, VUE**
