@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and a software engineering student from Chiapas, México</h3>
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/bad73067be0171aab9e958e844f2fffe8685814c10a3245aa363d31f9b649922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"  />
+  <img height="200" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-orozco-67&label=Profile%20views&color=0e75b6&style=flat-square" alt="eduardo-orozco-67" /> </p>
