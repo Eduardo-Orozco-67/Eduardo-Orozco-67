@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Orozco</h1>
 <h3 align="center">A passionate developer and a software engineering student from Chiapas, México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-orozco-67&label=Profile%20views&color=0e75b6&style=flat-square" alt="eduardo-orozco-67" /> </p>
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
 </div
