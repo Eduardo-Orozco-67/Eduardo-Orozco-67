@@ -96,7 +96,7 @@
   </a>
   <img width="12" />
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-3.png" height="40" alt="github logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   </a>
   <img width="12" />
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
