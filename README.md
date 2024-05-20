@@ -95,6 +95,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </a>
   <img width="12" />
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://icons8.com/icon/12599/github" height="40" alt="github logo" />
+  </a>
+  <img width="12" />
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   </a>
@@ -145,10 +149,6 @@
   <img width="12" />
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
-  </a>
-  <img width="12" />
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   </a>
   <img width="12" />
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
