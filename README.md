@@ -91,6 +91,10 @@
     <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
   </a>
   <img width="12" />
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
+  </a>
+  <img width="12" />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </a>
@@ -165,10 +169,6 @@
   <img width="12" />
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo" />
-  </a>
-  <img width="12" />
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
   </a>
 </div>
 
