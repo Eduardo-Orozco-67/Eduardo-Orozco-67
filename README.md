@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-orozco-c%C3%A1rdenas-762565213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9aSkEhrEQda2rweHQpTTrA%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/jeoc03" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/813638023522156564" target="_blank">
