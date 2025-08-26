@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-orozco-67&label=Profile%20views&color=0e75b6&style=flat-square" alt="eduardo-orozco-67" /> </p>
 
-- Apple Swift Student Challenge 2025 Winner Software Engineer
+-  Apple Swift Student Challenge 2025 Winner Software Engineer
 
 - 🌱 I’m currently learning **new stuffs and technologies**
 
