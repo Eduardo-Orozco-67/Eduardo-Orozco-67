@@ -1,5 +1,5 @@
 <h1 align="center">Hi!!! 👋, I'm Eduardo Orozco</h1>
-<h3 align="center">A passionate developer and a software engineering student from Chiapas, México</h3>
+<h3 align="center">A passionate developer and a software engineer from Chiapas, México</h3>
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
