@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">📝 Languages</h3>
 <div align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -48,7 +48,10 @@
   <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
   </a>
-  <img width="12" />
+</div>
+
+<h3 align="left">🎨 Frontend</h3>
+<div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   </a>
@@ -61,8 +64,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   </a>
   <img width="12" />
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo" />
   </a>
   <img width="12" />
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -72,11 +75,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   </a>
-  <img width="12" />
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo" />
-  </a>
-  <img width="12" />
+</div>
+
+<h3 align="left">⚙️ Backend & Frameworks</h3>
+<div align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   </a>
@@ -93,10 +95,32 @@
     <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
   </a>
   <img width="12" />
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  </a>
+</div>
+
+<h3 align="left">🗄️ Databases</h3>
+<div align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   </a>
   <img width="12" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo" />
+  </a>
+</div>
+
+<h3 align="left">🛠️ Tools & DevOps</h3>
+<div align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </a>
@@ -116,25 +140,12 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
   </a>
-  <img width="12" />
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  </a>
-  <img width="12" />
+</div>
+
+<h3 align="left">☁️ Cloud & Servers</h3>
+<div align="left">
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo" />
   </a>
   <img width="12" />
   <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
@@ -144,11 +155,21 @@
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" />
   </a>
+</div>
+
+<h3 align="left">🧪 Testing & API</h3>
+<div align="left">
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
+  </a>
   <img width="12" />
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   </a>
-  <img width="12" />
+</div>
+
+<h3 align="left">💻 Operating Systems</h3>
+<div align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   </a>
@@ -156,7 +177,10 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
   </a>
-  <img width="12" />
+</div>
+
+<h3 align="left">📱 IDEs & Editors</h3>
+<div align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
   </a>
@@ -165,12 +189,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   </a>
   <img width="12" />
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  </a>
-  <img width="12" />
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo" />
+  </a>
+</div>
+
+<h3 align="left">🔧 Hardware & Embedded</h3>
+<div align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   </a>
 </div>
 
