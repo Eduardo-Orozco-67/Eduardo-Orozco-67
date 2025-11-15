@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h3 align="left">📝 Languages</h3>
+<h3 align="left">Languages</h3>
 <div align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -50,7 +50,7 @@
   </a>
 </div>
 
-<h3 align="left">🎨 Frontend</h3>
+<h3 align="left">Frontend</h3>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -77,7 +77,7 @@
   </a>
 </div>
 
-<h3 align="left">⚙️ Backend & Frameworks</h3>
+<h3 align="left">Backend & Frameworks</h3>
 <div align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -100,7 +100,7 @@
   </a>
 </div>
 
-<h3 align="left">🗄️ Databases</h3>
+<h3 align="left">Databases</h3>
 <div align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
@@ -119,7 +119,7 @@
   </a>
 </div>
 
-<h3 align="left">🛠️ Tools & DevOps</h3>
+<h3 align="left">Tools & DevOps</h3>
 <div align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
@@ -142,7 +142,7 @@
   </a>
 </div>
 
-<h3 align="left">☁️ Cloud & Servers</h3>
+<h3 align="left">Cloud & Servers</h3>
 <div align="left">
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
@@ -157,7 +157,7 @@
   </a>
 </div>
 
-<h3 align="left">🧪 Testing & API</h3>
+<h3 align="left">Testing & API</h3>
 <div align="left">
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
@@ -179,7 +179,7 @@
   </a>
 </div>
 
-<h3 align="left">📱 IDEs & Editors</h3>
+<h3 align="left">IDEs & Editors</h3>
 <div align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
@@ -194,7 +194,7 @@
   </a>
 </div>
 
-<h3 align="left">🔧 Hardware & Embedded</h3>
+<h3 align="left">Hardware & Embedded</h3>
 <div align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
