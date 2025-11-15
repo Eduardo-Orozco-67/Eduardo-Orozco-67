@@ -41,12 +41,12 @@
 
 <h4 align="left">📜 Certifications</h4>
 <ul>
-  <li>Add your certifications here</li>
+  <li>...</li>
 </ul>
 
 <h4 align="left">📚 Courses & Training</h4>
 <ul>
-  <li>Add your relevant courses here</li>
+  <li>...</li>
 </ul>
 
 <h3 align="left">Languages</h3>
