@@ -27,24 +27,24 @@
   </a>
 </div>
 
-<h3 align="left">🎓 Education & Certifications</h3>
+<h3 align="left">Education & Certifications</h3>
 
-<h4 align="left">🏫 Education</h4>
+<h4 align="left">Education</h4>
 <ul>
   <li><strong>Universidad Autónoma de Chiapas (UNACH)</strong> - Chiapas, México</li>
 </ul>
 
-<h4 align="left">🏆 Awards & Recognition</h4>
+<h4 align="left">Awards & Recognition</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/🍎%20Apple%20Swift%20Student%20Challenge%202025%20Winner-FF6B35?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Swift Award" />
 </div>
 
-<h4 align="left">📜 Certifications</h4>
+<h4 align="left">Certifications</h4>
 <ul>
   <li>...</li>
 </ul>
 
-<h4 align="left">📚 Courses & Training</h4>
+<h4 align="left">Courses & Training</h4>
 <ul>
   <li>...</li>
 </ul>
